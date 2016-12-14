@@ -6,7 +6,7 @@ package genericite;
 
 /**
  *
- * @author octobre2014
+ * @author octobre2017
  */
 public class Genericite {
 
