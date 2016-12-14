@@ -6,7 +6,7 @@ package genericite;
 
 /**
  *
- * @author octobre2014
+ * @author octobre2017
  */
 public class Genericite {
 
@@ -15,5 +15,6 @@ public class Genericite {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    int i;
     }
 }
